@@ -2,10 +2,13 @@
 <hr>
 ### About me:
 ![About me code](./readme_pic.png)
+
 <hr>
 ![Liam's GitHub stats](https://github-readme-stats.vercel.app/api?username=climber-guy1772&show_icons=true&theme=nord)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=climber-guy1772&layout=compact&theme=nord)](https://github.com/climber-guy1772/github-readme-stats) <img src="https://c.tenor.com/BxnjISc-LJgAAAAi/rocket-spaceship.gif" height="120">
+
 <hr>
+
 <p align='center'>
   
   <a href="www.linkedin.com/in/liam-schenk">
