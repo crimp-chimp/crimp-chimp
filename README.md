@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hello there! 👋
 ---
-### About me <img src="https://i.gifer.com/origin/e4/e4f92c58bd13741fd633be8fa5de45bf_w200.gif" width="20" height="24">
+### About me 🧗
 ![About me code](./readme_intro.jpg)
 <!--
 **climber-guy1772/climber-guy1772** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
