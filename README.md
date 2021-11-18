@@ -18,4 +18,6 @@ Here are some ideas to get you started:
 -->
 ---
 ![Liam's GitHub stats](https://github-readme-stats.vercel.app/api?username=climber-guy1772&show_icons=true&theme=nord)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=climber-guy1772&layout=compact&theme=nord)](https://github.com/climber-guy1772/github-readme-stats) <img src="https://c.tenor.com/BxnjISc-LJgAAAAi/rocket-spaceship.gif" height="120"> <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="liam-schenk" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/liam-schenk?trk=profile-badge">Liam Schenk</a></div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=climber-guy1772&layout=compact&theme=nord)](https://github.com/climber-guy1772/github-readme-stats) <img src="https://c.tenor.com/BxnjISc-LJgAAAAi/rocket-spaceship.gif" height="120">
+---
+![image]({https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white}) ![image]({https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white}) ![image]({https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen}) ![image]({https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white}) ![image]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white})
