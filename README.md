@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<!--### About me 
+### About me 
 ---
-![About me code](./readme_about_me.png)
+![About me code](./readme_intro.png)
 <!--
 **climber-guy1772/climber-guy1772** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Liam's GitHub stats](https://github-readme-stats.vercel.app/api?username=climber-guy1772&show_icons=true&theme=calm)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=climber-guy1772&layout=compact&theme=calm)](https://github.com/climber-guy1772/github-readme-stats)
+![Liam's GitHub stats](https://github-readme-stats.vercel.app/api?username=climber-guy1772&show_icons=true&theme=nord)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=climber-guy1772&layout=compact&theme=nord)](https://github.com/climber-guy1772/github-readme-stats)
