@@ -1,7 +1,7 @@
 ### Hi there 👋
 ---
 ### About me 
-![About me code](./readme_intro.png)
+![About me code](./readme_intro.jpg)
 <!--
 **climber-guy1772/climber-guy1772** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
