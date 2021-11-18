@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 -->
 ---
 ![Liam's GitHub stats](https://github-readme-stats.vercel.app/api?username=climber-guy1772&show_icons=true&theme=nord)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=climber-guy1772&layout=compact&theme=nord)](https://github.com/climber-guy1772/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=climber-guy1772&layout=compact&theme=nord)](https://github.com/climber-guy1772/github-readme-stats) ![](readme_gif_2.gif)
