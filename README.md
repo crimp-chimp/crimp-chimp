@@ -3,7 +3,7 @@
 <hr>
 
 ### About me:
-![About me code](./readme_pic.png)
+![About me code](./readme_aboutme.png)
 
 <hr>
 
