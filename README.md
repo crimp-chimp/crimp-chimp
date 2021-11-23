@@ -1,19 +1,25 @@
-# Hello there! 👋
+### Hello there! 👋
 
----
+<hr>
 
 ### About me:
 ![About me code](./readme_pic.png)
 
----
+<hr>
 
 <p align='center'>
   
-  ![Liam's GitHub stats](https://github-readme-stats.vercel.app/api?username=climber-guy1772&show_icons=true&theme=swift)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=climber-guy1772&layout=compact&theme=swift)](https://github.com/climber-guy1772/github-readme-stats) <img src="https://c.tenor.com/BxnjISc-LJgAAAAi/rocket-spaceship.gif" height="120">
-
-</p>
+  <a href="https://github.com/climber-guy1772/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=climber-guy1772&show_icons=true&theme=swift" />
+  </a>
+  <br>
+  <a href="https://github.com/climber-guy1772/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=climber-guy1772&layout=compact&theme=swift" />
+  </a>
+  <img align="center" src="https://c.tenor.com/BxnjISc-LJgAAAAi/rocket-spaceship.gif" height="120" />
   
+</p>
+
 <hr>
 
 <p align='center'>
