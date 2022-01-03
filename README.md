@@ -3,18 +3,18 @@
 <hr>
 
 ### About me:
-![About me code](./readme_aboutme.png)
+![About me code](./aboutme_pic.jpg)
 
 <hr>
 
 <p align='center'>
   
   <a href="https://github.com/climber-guy1772/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=climber-guy1772&show_icons=true&theme=swift" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=climber-guy1772&show_icons=true&theme=react" />
   </a>
   <br>
   <a href="https://github.com/climber-guy1772/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=climber-guy1772&layout=compact&theme=swift" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=climber-guy1772&layout=compact&theme=react" />
   </a>
   <img align="center" src="https://c.tenor.com/BxnjISc-LJgAAAAi/rocket-spaceship.gif" height="120" />
   
