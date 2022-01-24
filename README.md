@@ -65,7 +65,7 @@ void aboutMe(bool hasSleep, bool isListeningToMusic)
   <a href="https://open.spotify.com/playlist/5YML7BQKM2a3cHHXrZRIrI?si=37f73894c38e4647">
     <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />        
   </a>
-  <a href="mailto:leeumschenk@gmail.com">
+  <a href="mailto:schenk.liam.a@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   
