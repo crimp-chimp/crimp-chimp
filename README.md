@@ -1,4 +1,4 @@
-# Hello there! 👋
+# Howdy! 👋
 
 ## ❓ About me:
 
@@ -10,17 +10,17 @@ char hometown[] = "Albuquerque, New Mexico!";
 
 void aboutMe(bool hasSleep, bool isListeningToMusic)
 {
-  if (hasSleep && isListeningToMusic)  // A mix between classical guitar, metal, and contemporary jazz fusion 🎷
+  if (hasSleep && isListeningToMusic)
   {
-    interestedIn = "Anything with rocketry and computer science!"
-                   "When it comes to solving the math behind bipropellant rocket engines 
-                    or complex C++/MATLAB problems, I'm always up for a challenge."
+    interestedIn = "Anything regarding rocket propulsion and fluids systems!"
+                   "When it comes to delving into complex problems with rocket engine
+                    design or data analytics, I'm always up for a challenge."
                    "I also enjoy rock climbing, playing guitar, 
                     and (endlessly) tinkering with my 3D printer in my freetime!";  // 🧗
     workingOn = "Heat transfer and engine cooling models, injector design and testing, 
-                 and sizing code for a new PSP LOX/RP-1 rocket.";  // 🚀
-    gettingSmartAt = "Purdue University! I'm studying Aerospace Engineering,
-                      and I'm pursuing minors in Computer Science and Mathematics.";  // 📚
+                 and sizing code for a 2,000 lbf LOX/Ethanol rocket.";  // 🚀
+    gettingSmartAt = "Purdue University! I'm a second year student in Aeronautical and Astronautical Engineering,
+                      and I'm pursuing a minor in Mathematics.";  // 📚
   }
 }
 
@@ -50,8 +50,9 @@ void aboutMe(bool hasSleep, bool isListeningToMusic)
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
   <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white" />
+  <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
   
 </p>
 
@@ -65,8 +66,8 @@ void aboutMe(bool hasSleep, bool isListeningToMusic)
   <a href="https://open.spotify.com/playlist/5YML7BQKM2a3cHHXrZRIrI?si=37f73894c38e4647">
     <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />        
   </a>
-  <a href="mailto:schenk.liam.a@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:schenkl@purdue.edu">
+    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>
   
 </p>
