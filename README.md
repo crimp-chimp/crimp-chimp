@@ -5,8 +5,9 @@
 ```c
 #include "liam_schenk.h"
 
-int age = 19;
-char hometown[] = "Albuquerque, New Mexico!";
+int age = 20;
+char hometown[] = "Albuquerque, New Mexico";
+char location[] = "West Lafayette, Indiana";
 
 void aboutMe(bool hasSleep, bool isListeningToMusic)
 {
