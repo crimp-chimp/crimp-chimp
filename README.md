@@ -7,21 +7,15 @@
 
 int age = 20;
 char hometown[] = "Albuquerque, New Mexico";
-char location[] = "West Lafayette, Indiana";
+char location[] = "Salt Lake City, Utah";
 
 void aboutMe(bool hasSleep, bool isListeningToMusic)
 {
   if (hasSleep && isListeningToMusic)
   {
-    interestedIn = "Anything regarding rocket propulsion and fluids systems!"
-                   "When it comes to delving into complex problems with rocket engine
-                    design or data analytics, I'm always up for a challenge."
-                   "I also enjoy rock climbing, playing guitar, 
-                    and (endlessly) tinkering with my 3D printer in my freetime!";  // 🧗
-    workingOn = "Heat transfer and engine cooling models, injector design and testing, 
-                 and sizing code for a 2,000 lbf LOX/Ethanol rocket.";  // 🚀
-    gettingSmartAt = "Purdue University! I'm a second year student in Aeronautical and Astronautical Engineering,
-                      and I'm pursuing a minor in Mathematics.";  // 📚
+    interestedIn = "Fluid systems, mechatronics, and bouldering!";  // 🧗
+    workingOn = "Heat transfer and rocket engine cooling models.";  // 🚀
+    gettingSmartAt = "University of Utah! I'm a third year student in Mechanical Engineering.";  // 📚
   }
 }
 
