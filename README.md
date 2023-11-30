@@ -5,7 +5,7 @@
 ```c
 #include "liam_schenk.h"
 
-int age = 20;
+int age = 21;
 char hometown[] = "Albuquerque, New Mexico";
 char location[] = "Salt Lake City, Utah";
 
